@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Serie A,2014-15,Juventus,Gianluigi Buffon,GK,150,17,5.5,5.7
+Serie A,2014-15,Juventus,Leonardo Bonucci,DEF,161,12,5.5,5.8
+Serie A,2014-15,Roma,Alessandro Florenzi,DEF,151,25,6.0,6.1
+Serie A,2014-15,Juventus,Stephan Lichtsteiner,DEF,144,18,5.5,5.8
+Serie A,2014-15,Palermo,Franco Vázquez,MID,183,29,7.0,7.2
+Serie A,2014-15,Napoli,José Callejón,MID,164,21,6.5,6.6
+Serie A,2014-15,Napoli,Marek Hamšík,MID,149,18,7.0,6.9
+Serie A,2014-15,Roma,Miralem Pjanić,MID,137,18,7.0,6.9
+Serie A,2014-15,Inter,Mauro Icardi,FWD,208,38,10.0,10.4
+Serie A,2014-15,Verona,Luca Toni,FWD,201,36,8.0,8.4
+Serie A,2014-15,Juventus,Carlos Tévez,FWD,197,41,10.5,10.8
+Total,-,-,-,-,1845,273,78.5,80.6

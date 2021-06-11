@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Ligue 1,2020-21,Lille,Mike Maignan,GK,180,26,5.0,5.6
+Serie A,2020-21,AC Milan,Theo Hernández,DEF,168,20,6.0,6.4
+Ligue 1,2020-21,Lille,José Fonte,DEF,166,11,5.5,5.9
+La Liga,2020-21,Atlético,Kieran Trippier,DEF,161,25,5.5,5.7
+Premier League,2020-21,Man. United,Bruno Fernandes,MID,248,44,7.0,8.5
+Serie A,2020-21,Napoli,Lorenzo Insigne,MID,240,49,8.0,9.1
+Premier League,2020-21,Tottenham,Heung-min Son,MID,224,27,9.5,10.0
+La Liga,2020-21,Atlético,Marcos Llorente,MID,196,26,5.5,6.6
+Bundesliga,2020-21,Bayern,Robert Lewandowski,FWD,288,50,12.5,13.1
+La Liga,2020-21,Barcelona,Lionel Messi,FWD,266,55,12.5,12.9
+Bundesliga,2020-21,Frankfurt,André Silva,FWD,236,46,5.5,7.1
+Total,-,-,-,-,2373,379,82.5,90.9

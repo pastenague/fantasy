@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Bundesliga,2016-17,Hoffenheim,Oliver Baumann,GK,115,12,4.5,4.6
+Bundesliga,2016-17,Bayern,David Alaba,DEF,172,17,5.5,6.0
+Bundesliga,2016-17,Frankfurt,Bastian Oczipka,DEF,129,19,4.5,4.7
+Bundesliga,2016-17,Hoffenheim,Niklas Süle,DEF,122,13,4.5,4.7
+Bundesliga,2016-17,RB Leipzig,Emil Forsberg,MID,186,29,10.0,10.0
+Bundesliga,2016-17,Bayern,Arjen Robben,MID,164,21,9.5,9.5
+Bundesliga,2016-17,Freiburg,Vincenzo Grifo,MID,130,15,6.5,6.3
+Bundesliga,2016-17,Bayern,Thiago Alcántara,MID,122,12,5.5,5.6
+Bundesliga,2016-17,Dortmund,P.-E. Aubameyang,FWD,239,49,10.5,11.2
+Bundesliga,2016-17,Bayern,Robert Lewandowski,FWD,231,38,11.5,12.1
+Bundesliga,2016-17,Köln,Anthony Modeste,FWD,211,41,7.5,8.3
+Total,-,-,-,-,1821,266,80.0,83.0

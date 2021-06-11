@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Bundesliga,2014-15,Bayern,Manuel Neuer,GK,155,17,5.5,5.8
+Bundesliga,2014-15,Wolfsburg,Naldo,DEF,137,10,5.0,5.2
+Bundesliga,2014-15,Bayern,Juan Bernat,DEF,135,4,6.0,5.9
+Bundesliga,2014-15,Bayern,Rafinha,DEF,131,13,6.0,5.9
+Bundesliga,2014-15,Wolfsburg,Kevin De Bruyne,MID,222,39,9.5,9.8
+Bundesliga,2014-15,Bayern,Arjen Robben,MID,195,37,10.5,10.8
+Bundesliga,2014-15,Leverkusen,Karim Bellarabi,MID,169,17,8.0,8.2
+Bundesliga,2014-15,Werder Bremen,Zlatko Junuzović,MID,148,17,7.0,6.9
+Bundesliga,2014-15,Dortmund,P.-E. Aubameyang,FWD,165,23,8.5,8.5
+Bundesliga,2014-15,Frankfurt,Alexander Meier,FWD,164,32,8.0,8.0
+Bundesliga,2014-15,Gladbach,Max Kruse,FWD,158,28,8.0,8.0
+Total,-,-,-,-,1779,237,82.0,83.0

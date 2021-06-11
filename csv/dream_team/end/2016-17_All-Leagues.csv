@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Ligue 1,2016-17,Marseille,Yohann Pelé,GK,144,16,4.5,4.9
+La Liga,2016-17,Atlético,Filipe Luis,DEF,190,25,5.5,6.2
+Ligue 1,2016-17,Monaco,Kamil Glik,DEF,175,9,5.0,5.7
+Premier League,2016-17,Chelsea,Gary Cahill,DEF,174,15,5.0,5.6
+Bundesliga,2016-17,Bayern,David Alaba,DEF,172,17,5.5,6.0
+Premier League,2016-17,Tottenham,Dele Alli,MID,225,30,8.5,9.3
+Serie A,2016-17,Napoli,Marek Hamšík,MID,204,30,8.0,8.4
+Premier League,2016-17,Bournemouth,Joshua King,MID,180,21,6.0,6.5
+La Liga,2016-17,Barcelona,Lionel Messi,FWD,293,59,12.5,13.1
+Serie A,2016-17,Roma,Edin Dzeko,FWD,250,41,7.0,8.8
+Serie A,2016-17,Napoli,Dries Mertens,FWD,236,40,7.0,8.5
+Total,-,-,-,-,2243,303,74.5,83.0

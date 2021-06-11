@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Premier League,2018-19,Liverpool,Alisson,GK,168,13,5.5,5.9
+Premier League,2018-19,Liverpool,Andrew Robertson,DEF,204,23,5.5,6.4
+Premier League,2018-19,Liverpool,Virgil van Dijk,DEF,195,15,4.5,5.4
+Bundesliga,2018-19,Bayern,Joshua Kimmich,DEF,188,31,6.5,6.9
+Ligue 1,2018-19,Lille,Nicolas Pepe,MID,274,42,7.0,9.0
+Bundesliga,2018-19,Dortmund,Marco Reus,MID,197,33,7.0,7.8
+Bundesliga,2018-19,Leverkusen,Kai Havertz,MID,197,30,6.5,7.2
+Bundesliga,2018-19,Dortmund,Jadon Sancho,MID,195,27,6.0,6.9
+La Liga,2018-19,Barcelona,Lionel Messi,FWD,293,51,13.0,13.5
+Serie A,2018-19,Sampdoria,Fabio Quagliarella,FWD,244,43,9.0,10.0
+Ligue 1,2018-19,PSG,Kylian Mbappé,FWD,237,39,8.5,10.0
+Total,-,-,-,-,2392,347,79.0,89.0

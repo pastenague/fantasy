@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+La Liga,2015-16,Atlético,Jan Oblak,GK,187,19,5.0,5.8
+Premier League,2018-19,Liverpool,Virgil van Dijk,DEF,195,15,4.5,5.4
+Premier League,2018-19,Man. City,Aymeric Laporte,DEF,177,16,5.0,5.6
+La Liga,2015-16,Atlético,Filipe Luis,DEF,169,30,4.5,5.2
+Serie A,2017-18,Inter,Milan Skriniar,DEF,168,11,4.5,5.1
+Ligue 1,2018-19,Lille,Nicolas Pepe,MID,274,42,7.0,9.0
+Premier League,2015-16,Leicester,Riyad Mahrez,MID,240,36,6.0,7.7
+Ligue 1,2015-16,Nice,Hatem Ben Arfa,MID,206,28,5.0,6.3
+La Liga,2014-15,Real Madrid,Cristiano Ronaldo,FWD,372,71,11.5,12.9
+La Liga,2014-15,Barcelona,Lionel Messi,FWD,362,65,11.5,12.9
+Bundesliga,2020-21,Frankfurt,André Silva,FWD,236,46,5.5,7.1
+Total,-,-,-,-,2586,379,70.0,83.0

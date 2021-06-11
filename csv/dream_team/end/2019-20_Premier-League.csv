@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Premier League,2019-20,Wolves,Rui Patrício,GK,135,19,4.5,4.8
+Premier League,2019-20,Liverpool,Trent Alexander-Arnold,DEF,208,28,6.5,7.2
+Premier League,2019-20,Liverpool,Andrew Robertson,DEF,185,24,6.5,6.9
+Premier League,2019-20,Liverpool,Virgil van Dijk,DEF,174,13,6.0,6.3
+Premier League,2019-20,Wolves,Matt Doherty,DEF,151,16,6.0,6.1
+Premier League,2019-20,Man. City,Kevin De Bruyne,MID,242,32,8.0,9.3
+Premier League,2019-20,Man. United,Marcus Rashford,MID,202,28,7.0,7.7
+Premier League,2019-20,Tottenham,Heung-min Son,MID,170,26,9.0,9.1
+Premier League,2019-20,Southampton,Danny Ings,FWD,207,47,6.5,7.2
+Premier League,2019-20,Leicester,Jamie Vardy,FWD,205,33,9.5,10.0
+Premier League,2019-20,Wolves,Raúl Jiménez,FWD,193,35,7.5,7.9
+Total,-,-,-,-,2072,301,77.0,82.5

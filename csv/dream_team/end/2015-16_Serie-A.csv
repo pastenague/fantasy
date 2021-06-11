@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Serie A,2015-16,Juventus,Gianluigi Buffon,GK,169,19,5.5,5.9
+Serie A,2015-16,Juventus,Leonardo Bonucci,DEF,162,11,6.0,6.2
+Serie A,2015-16,Napoli,Faouzi Ghoulam,DEF,145,22,5.0,5.1
+Serie A,2015-16,Juventus,Juan Cuadrado,DEF,143,29,5.5,5.6
+Serie A,2015-16,Napoli,Marek Hamšík,MID,174,20,7.5,7.7
+Serie A,2015-16,Juventus,Paul Pogba,MID,170,17,7.0,7.4
+Serie A,2015-16,Roma,Miralem Pjanić,MID,168,28,7.0,7.2
+Serie A,2015-16,Fiorentina,Josip Iličić,MID,153,18,7.0,7.1
+Serie A,2015-16,Napoli,Gonzalo Higuaín,FWD,272,56,9.5,10.9
+Serie A,2015-16,Juventus,Paulo Dybala,FWD,203,39,8.5,9.2
+Serie A,2015-16,AC Milan,Carlos Bacca,FWD,188,38,10.5,10.6
+Total,-,-,-,-,1947,297,79.0,82.9

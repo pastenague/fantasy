@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+La Liga,2014-15,Barcelona,Claudio Bravo,GK,173,12,5.5,6.0
+Premier League,2014-15,Chelsea,Branislav Ivanović,DEF,179,16,5.5,6.1
+Premier League,2014-15,Chelsea,John Terry,DEF,172,9,5.5,5.9
+Serie A,2014-15,Juventus,Leonardo Bonucci,DEF,161,12,5.5,5.8
+Premier League,2014-15,Chelsea,Eden Hazard,MID,234,46,8.0,8.8
+Bundesliga,2014-15,Wolfsburg,Kevin De Bruyne,MID,222,39,9.5,9.8
+Premier League,2014-15,Arsenal,Alexis Sánchez,MID,212,33,8.5,9.0
+La Liga,2014-15,Rayo Vallecano,Alberto Bueno,MID,196,26,8.0,8.4
+La Liga,2014-15,Real Madrid,Cristiano Ronaldo,FWD,372,71,11.5,12.9
+La Liga,2014-15,Barcelona,Lionel Messi,FWD,362,65,11.5,12.9
+Ligue 1,2014-15,Lyon,Alexandre Lacazette,FWD,234,49,11.0,11.6
+Total,-,-,-,-,2517,378,90.0,97.2

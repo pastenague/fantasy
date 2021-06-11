@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Ligue 1,2014-15,Saint-Étienne,Stéphane Ruffier,GK,163,25,5.0,5.5
+Premier League,2014-15,Chelsea,Branislav Ivanović,DEF,179,16,5.5,6.1
+Premier League,2014-15,Chelsea,John Terry,DEF,172,9,5.5,5.9
+Serie A,2014-15,Juventus,Leonardo Bonucci,DEF,161,12,5.5,5.8
+Ligue 1,2014-15,Monaco,Fabinho,DEF,159,15,5.5,5.7
+Premier League,2014-15,Chelsea,Eden Hazard,MID,234,46,8.0,8.8
+Bundesliga,2014-15,Wolfsburg,Kevin De Bruyne,MID,222,39,9.5,9.8
+Ligue 1,2014-15,Guingamp,Claudio Beauvue,MID,196,25,7.5,7.9
+La Liga,2014-15,Real Madrid,Cristiano Ronaldo,FWD,372,71,11.5,12.9
+La Liga,2014-15,Barcelona,Lionel Messi,FWD,362,65,11.5,12.9
+Serie A,2014-15,Verona,Luca Toni,FWD,201,36,8.0,8.4
+Total,-,-,-,-,2421,359,83.0,89.7

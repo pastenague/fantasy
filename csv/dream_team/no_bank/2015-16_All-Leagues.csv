@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+La Liga,2015-16,Atlético,Jan Oblak,GK,187,19,5.0,5.8
+Ligue 1,2015-16,Lille,Djibril Sidibe,DEF,194,24,5.5,6.1
+Premier League,2015-16,Arsenal,Héctor Bellerín,DEF,175,24,5.0,5.5
+La Liga,2015-16,Atlético,Filipe Luis,DEF,169,30,4.5,5.2
+Premier League,2015-16,Leicester,Riyad Mahrez,MID,240,36,6.0,7.7
+Bundesliga,2015-16,Bayern,Thomas Müller,MID,213,35,10.0,10.5
+Premier League,2015-16,Arsenal,Mesut Özil,MID,209,40,6.5,7.4
+Ligue 1,2015-16,Nice,Hatem Ben Arfa,MID,206,28,5.0,6.3
+La Liga,2015-16,Barcelona,Luis Suárez,FWD,322,50,11.0,12.4
+Ligue 1,2015-16,PSG,Zlatan Ibrahimović,FWD,303,53,10.5,11.9
+La Liga,2015-16,Real Madrid,Cristiano Ronaldo,FWD,285,44,13.5,13.8
+Total,-,-,-,-,2503,383,82.5,92.6

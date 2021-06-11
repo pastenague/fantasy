@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+La Liga,2017-18,Atlético,Jan Oblak,GK,177,22,5.5,6.0
+La Liga,2017-18,Barcelona,Jordi Alba,DEF,186,30,6.0,6.5
+Serie A,2017-18,Roma,Aleksandar Kolarov,DEF,183,28,5.5,6.0
+Serie A,2017-18,Napoli,Kalidou Koulibaly,DEF,178,14,5.5,6.1
+Ligue 1,2017-18,Marseille,Florian Thauvin,MID,262,42,7.5,9.2
+Ligue 1,2017-18,Lyon,Memphis Depay,MID,239,32,6.5,8.1
+Serie A,2017-18,Juventus,Paulo Dybala,MID,223,29,10.0,10.6
+Ligue 1,2017-18,Lyon,Nabil Fekir,MID,207,35,8.0,8.6
+La Liga,2017-18,Barcelona,Lionel Messi,FWD,287,50,13.0,13.5
+Premier League,2017-18,Liverpool,Mohamed Salah,FWD,268,42,9.5,10.9
+Premier League,2017-18,Tottenham,Harry Kane,FWD,241,49,11.5,12.1
+Total,-,-,-,-,2451,373,88.5,97.6

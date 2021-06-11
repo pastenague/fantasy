@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Serie A,2017-18,Napoli,José Reina,GK,156,19,5.0,5.4
+Serie A,2017-18,Roma,Aleksandar Kolarov,DEF,183,28,5.5,6.0
+Serie A,2017-18,Napoli,Kalidou Koulibaly,DEF,178,14,5.5,6.1
+Serie A,2017-18,Inter,Milan Skriniar,DEF,168,11,4.5,5.1
+Serie A,2017-18,Juventus,Paulo Dybala,MID,223,29,10.0,10.6
+Serie A,2017-18,Lazio,Luis Alberto,MID,190,26,6.0,6.7
+Serie A,2017-18,Inter,Ivan Perišić,MID,188,21,8.0,8.4
+Serie A,2017-18,Lazio,Sergej Milinković-Savić,MID,164,27,5.5,5.9
+Serie A,2017-18,Lazio,Ciro Immobile,FWD,238,38,8.5,9.7
+Serie A,2017-18,Inter,Mauro Icardi,FWD,225,37,11.0,11.7
+Serie A,2017-18,Napoli,Dries Mertens,FWD,187,28,10.5,10.8
+Total,-,-,-,-,2100,278,80.0,86.4

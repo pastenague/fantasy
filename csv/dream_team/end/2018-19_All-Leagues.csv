@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Ligue 1,2018-19,Nice,Walter Benítez,GK,149,22,4.5,4.9
+Premier League,2018-19,Liverpool,Andrew Robertson,DEF,204,23,5.5,6.4
+Premier League,2018-19,Liverpool,Virgil van Dijk,DEF,195,15,4.5,5.4
+Premier League,2018-19,Man. City,Aymeric Laporte,DEF,177,16,5.0,5.6
+Premier League,2018-19,Liverpool,Trent Alexander-Arnold,DEF,176,23,5.0,5.7
+Ligue 1,2018-19,Lille,Nicolas Pepe,MID,274,42,7.0,9.0
+Bundesliga,2018-19,Leverkusen,Kai Havertz,MID,197,30,6.5,7.2
+Bundesliga,2018-19,Dortmund,Jadon Sancho,MID,195,27,6.0,6.9
+La Liga,2018-19,Barcelona,Lionel Messi,FWD,293,51,13.0,13.5
+Serie A,2018-19,Sampdoria,Fabio Quagliarella,FWD,244,43,9.0,10.0
+Serie A,2018-19,Atalanta,Duván Zapata,FWD,215,39,7.5,8.3
+Total,-,-,-,-,2319,331,73.5,82.9

@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Premier League,2016-17,Chelsea,Thibaut Courtois,GK,140,12,4.5,4.9
+Premier League,2016-17,Chelsea,Gary Cahill,DEF,174,15,5.0,5.6
+Premier League,2016-17,Liverpool,James Milner,DEF,173,18,7.0,7.1
+Premier League,2016-17,Chelsea,César Azpilicueta,DEF,158,13,5.5,5.7
+Premier League,2016-17,Tottenham,Eric Dier,DEF,141,7,5.0,5.2
+Premier League,2016-17,Tottenham,Dele Alli,MID,225,30,8.5,9.3
+Premier League,2016-17,Tottenham,Christian Eriksen,MID,199,26,7.5,8.1
+Premier League,2016-17,Bournemouth,Joshua King,MID,180,21,6.0,6.5
+Premier League,2016-17,Arsenal,Alexis Sánchez,FWD,238,44,9.5,10.3
+Premier League,2016-17,Tottenham,Harry Kane,FWD,234,41,10.0,10.9
+Premier League,2016-17,Everton,Romelu Lukaku,FWD,227,39,8.5,9.4
+Total,-,-,-,-,2089,266,77.0,83.0

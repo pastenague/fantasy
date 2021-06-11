@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Bundesliga,2020-21,RB Leipzig,Péter Gulácsi,GK,128,10,5.0,5.1
+Bundesliga,2020-21,Frankfurt,Filip Kostić,DEF,151,25,7.0,7.0
+Bundesliga,2020-21,Dortmund,Raphael Guerreiro,DEF,151,26,7.0,7.0
+Bundesliga,2020-21,RB Leipzig,Angelino,DEF,141,21,5.0,5.3
+Bundesliga,2020-21,Stuttgart,Silas Wamangituka,DEF,141,17,7.0,7.0
+Bundesliga,2020-21,Bayern,Thomas Müller,MID,207,26,9.5,9.8
+Bundesliga,2020-21,Gladbach,Lars Stindl,MID,168,26,7.0,7.2
+Bundesliga,2020-21,Freiburg,Vincenzo Grifo,MID,166,27,6.5,6.7
+Bundesliga,2020-21,Bayern,Robert Lewandowski,FWD,288,50,12.5,13.1
+Bundesliga,2020-21,Frankfurt,André Silva,FWD,236,46,5.5,7.1
+Bundesliga,2020-21,Dortmund,Erling Haaland,FWD,213,34,9.0,9.7
+Total,-,-,-,-,1990,308,81.0,85.0

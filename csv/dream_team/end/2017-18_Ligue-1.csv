@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Ligue 1,2017-18,Montpellier,Benjamin Lecomte,GK,145,20,4.0,4.5
+Ligue 1,2017-18,Nantes,Léo Dubois,DEF,144,18,5.0,5.2
+Ligue 1,2017-18,Monaco,Kamil Glik,DEF,143,7,6.5,6.4
+Ligue 1,2017-18,Lyon,Marcelo Guedes,DEF,136,7,4.5,4.9
+Ligue 1,2017-18,Marseille,Florian Thauvin,MID,262,42,7.5,9.2
+Ligue 1,2017-18,Lyon,Memphis Depay,MID,239,32,6.5,8.1
+Ligue 1,2017-18,Lyon,Nabil Fekir,MID,207,35,8.0,8.6
+Ligue 1,2017-18,Monaco,Rony Lopes,MID,186,22,5.5,6.4
+Ligue 1,2017-18,Rennes,Benjamin Bourigeaud,MID,173,28,5.5,5.9
+Ligue 1,2017-18,PSG,Edinson Cavani,FWD,223,35,12.0,12.5
+Ligue 1,2017-18,Angers,Karl Toko Ekambi,FWD,186,37,6.5,6.8
+Total,-,-,-,-,2044,283,71.5,78.5

@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Serie A,2019-20,Udinese,Juan Musso,GK,135,21,4.5,4.8
+Serie A,2019-20,Verona,Darko Lazović,DEF,161,27,5.5,5.8
+Serie A,2019-20,Verona,Marco Faraoni,DEF,148,16,4.5,4.9
+Serie A,2019-20,AC Milan,Theo Hernández,DEF,141,18,5.0,5.4
+Serie A,2019-20,Sassuolo,Domenico Berardi,MID,183,27,6.5,7.1
+Serie A,2019-20,Lazio,Luis Alberto,MID,180,27,7.5,7.7
+Serie A,2019-20,Atalanta,Alejandro Gómez,MID,175,17,8.0,8.1
+Serie A,2019-20,AC Milan,Hakan Çalhanoğlu,MID,167,25,6.5,6.8
+Serie A,2019-20,Lazio,Ciro Immobile,FWD,301,65,10.5,11.7
+Serie A,2019-20,Juventus,Cristiano Ronaldo,FWD,257,56,12.0,12.5
+Serie A,2019-20,Sassuolo,Francesco Caputo,FWD,205,35,7.5,8.1
+Total,-,-,-,-,2053,334,78.0,82.9

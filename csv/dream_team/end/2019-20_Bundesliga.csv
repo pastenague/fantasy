@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Bundesliga,2019-20,Bayern,Manuel Neuer,GK,120,5,5.0,5.1
+Bundesliga,2019-20,Dortmund,Achraf Hakimi,DEF,185,27,5.5,6.3
+Bundesliga,2019-20,Bayern,Benjamin Pavard,DEF,164,19,4.5,5.3
+Bundesliga,2019-20,Dortmund,Raphael Guerreiro,DEF,162,19,6.0,6.3
+Bundesliga,2019-20,Augsburg,Philipp Max,DEF,157,24,6.0,6.3
+Bundesliga,2019-20,Dortmund,Jadon Sancho,MID,225,28,8.5,9.4
+Bundesliga,2019-20,Bayern,Thomas Müller,MID,189,25,9.0,9.2
+Bundesliga,2019-20,RB Leipzig,Marcel Sabitzer,MID,145,13,6.0,6.2
+Bundesliga,2019-20,Bayern,Robert Lewandowski,FWD,244,39,12.0,12.6
+Bundesliga,2019-20,RB Leipzig,Timo Werner,FWD,235,37,9.5,10.3
+Bundesliga,2019-20,Augsburg,Florian Niederlechner,FWD,156,25,5.5,5.8
+Total,-,-,-,-,1982,261,77.5,82.8

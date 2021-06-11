@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Ligue 1,2020-21,Lille,Mike Maignan,GK,180,26,5.0,5.6
+Ligue 1,2015-16,Lille,Djibril Sidibe,DEF,194,24,5.5,6.1
+Ligue 1,2016-17,Monaco,Kamil Glik,DEF,175,9,5.0,5.7
+Ligue 1,2018-19,Saint-Étienne,Timothée Kolodziejczak,DEF,138,9,4.5,4.8
+Ligue 1,2018-19,Lille,Nicolas Pepe,MID,274,42,7.0,9.0
+Ligue 1,2017-18,Marseille,Florian Thauvin,MID,262,42,7.5,9.2
+Ligue 1,2017-18,Lyon,Memphis Depay,MID,239,32,6.5,8.1
+Ligue 1,2015-16,Nice,Hatem Ben Arfa,MID,206,28,5.0,6.3
+Ligue 1,2015-16,PSG,Zlatan Ibrahimović,FWD,303,53,10.5,11.9
+Ligue 1,2018-19,PSG,Kylian Mbappé,FWD,237,39,8.5,10.0
+Ligue 1,2016-17,Marseille,Florian Thauvin,FWD,181,29,5.5,6.3
+Total,-,-,-,-,2389,333,70.5,83.0

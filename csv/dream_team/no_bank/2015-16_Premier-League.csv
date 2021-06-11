@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Premier League,2015-16,Leicester,Kasper Schmeichel,GK,143,20,4.5,4.9
+Premier League,2015-16,Arsenal,Héctor Bellerín,DEF,175,24,5.0,5.5
+Premier League,2015-16,Tottenham,Toby Alderweireld,DEF,158,11,5.0,5.3
+Premier League,2015-16,Arsenal,Nacho Monreal,DEF,155,17,5.0,5.3
+Premier League,2015-16,Leicester,Riyad Mahrez,MID,240,36,6.0,7.7
+Premier League,2015-16,Arsenal,Mesut Özil,MID,209,40,6.5,7.4
+Premier League,2015-16,West Ham,Dimitri Payet,MID,173,30,8.5,8.5
+Premier League,2015-16,Stoke,Marko Arnautović,MID,167,21,6.0,6.4
+Premier League,2015-16,Leicester,Jamie Vardy,FWD,217,40,6.5,7.9
+Premier League,2015-16,Tottenham,Harry Kane,FWD,209,37,10.0,10.4
+Premier League,2015-16,Man. City,Sergio Agüero,FWD,190,31,12.0,12.4
+Total,-,-,-,-,2036,307,75.0,81.7

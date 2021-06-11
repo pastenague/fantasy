@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Bundesliga,2017-18,Schalke,Ralf Fährmann,GK,116,14,4.5,4.6
+Bundesliga,2017-18,Schalke,Naldo,DEF,172,20,5.5,6.0
+Bundesliga,2017-18,Augsburg,Philipp Max,DEF,145,15,5.0,5.4
+Bundesliga,2017-18,Bayern,Joshua Kimmich,DEF,140,20,6.0,6.0
+Bundesliga,2017-18,Gladbach,Thorgan Hazard,MID,155,17,6.5,6.5
+Bundesliga,2017-18,Schalke,Daniel Caligiuri,MID,151,17,6.0,6.2
+Bundesliga,2017-18,Augsburg,Michael Gregoritsch,MID,151,16,6.0,6.2
+Bundesliga,2017-18,Bayern,Thomas Müller,MID,149,14,10.0,9.9
+Bundesliga,2017-18,Bayern,Robert Lewandowski,FWD,209,35,12.0,12.5
+Bundesliga,2017-18,RB Leipzig,Timo Werner,FWD,160,28,8.5,8.4
+Bundesliga,2017-18,Hoffenheim,Andrej Kramarić,FWD,154,30,8.0,7.9
+Total,-,-,-,-,1702,226,78.0,79.6

@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+La Liga,2018-19,Atlético,Jan Oblak,GK,167,21,6.0,6.3
+La Liga,2018-19,Barcelona,Jordi Alba,DEF,162,20,6.5,6.6
+La Liga,2018-19,Barcelona,Gerard Piqué,DEF,157,9,5.5,5.8
+La Liga,2018-19,Leganés,Jonathan Silva,DEF,143,27,4.5,4.9
+La Liga,2018-19,Sevilla,Pablo Sarabia,MID,187,26,7.0,7.5
+La Liga,2018-19,Real Sociedad,Mikel Oyarzabal,MID,174,25,7.0,7.2
+La Liga,2018-19,Valencia,Daniel Parejo,MID,171,30,7.0,7.3
+La Liga,2018-19,Alavés,Jony,MID,154,24,5.5,5.7
+La Liga,2018-19,Barcelona,Lionel Messi,FWD,293,51,13.0,13.5
+La Liga,2018-19,Real Madrid,Karim Benzema,FWD,205,35,9.5,9.9
+La Liga,2018-19,Sevilla,Wissam Ben Yedder,FWD,192,31,8.0,8.4
+Total,-,-,-,-,2005,299,79.5,83.1

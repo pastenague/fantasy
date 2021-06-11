@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+La Liga,2015-16,Atlético,Jan Oblak,GK,187,19,5.0,5.8
+La Liga,2015-16,Atlético,Filipe Luis,DEF,169,30,4.5,5.2
+La Liga,2015-16,Atlético,Juanfran,DEF,166,11,5.5,5.8
+La Liga,2015-16,Atlético,Diego Godín,DEF,155,16,5.5,5.8
+La Liga,2015-16,Barcelona,Jordi Alba,DEF,150,16,5.5,5.7
+La Liga,2015-16,Las Palmas,Jonathan Viera,MID,183,27,7.0,7.3
+La Liga,2015-16,Atlético,Koke,MID,168,14,6.5,7.0
+La Liga,2015-16,Celta Vigo,Nolito,MID,165,29,9.5,9.4
+La Liga,2015-16,Barcelona,Luis Suárez,FWD,322,50,11.0,12.4
+La Liga,2015-16,Real Madrid,Cristiano Ronaldo,FWD,285,44,13.5,13.8
+La Liga,2015-16,Barcelona,Lionel Messi,FWD,254,43,13.0,13.3
+Total,-,-,-,-,2204,299,86.5,91.5

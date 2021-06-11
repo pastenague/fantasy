@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Bundesliga,2014-15,Gladbach,Yann Sommer,GK,140,18,5.0,5.2
+Bundesliga,2018-19,Bayern,Joshua Kimmich,DEF,188,31,6.5,6.9
+Bundesliga,2019-20,Dortmund,Achraf Hakimi,DEF,185,27,5.5,6.3
+Bundesliga,2018-19,RB Leipzig,Marcel Halstenberg,DEF,172,27,5.0,5.6
+Bundesliga,2019-20,Dortmund,Jadon Sancho,MID,225,28,8.5,9.4
+Bundesliga,2018-19,Leverkusen,Kai Havertz,MID,197,30,6.5,7.2
+Bundesliga,2015-16,Dortmund,Henrikh Mkhitaryan,MID,196,31,6.0,7.0
+Bundesliga,2018-19,Dortmund,Jadon Sancho,MID,195,27,6.0,6.9
+Bundesliga,2020-21,Bayern,Robert Lewandowski,FWD,288,50,12.5,13.1
+Bundesliga,2020-21,Frankfurt,André Silva,FWD,236,46,5.5,7.1
+Bundesliga,2016-17,Köln,Anthony Modeste,FWD,211,41,7.5,8.3
+Total,-,-,-,-,2233,356,74.5,83.0

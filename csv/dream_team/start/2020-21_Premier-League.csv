@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Premier League,2020-21,Aston Villa,Emiliano Martinez,GK,140,22,4.5,4.8
+Premier League,2020-21,Liverpool,Andrew Robertson,DEF,158,19,7.5,7.3
+Premier League,2020-21,Liverpool,Trent Alexander-Arnold,DEF,157,26,7.5,7.3
+Premier League,2020-21,Chelsea,Ben Chilwell,DEF,148,23,5.5,5.7
+Premier League,2020-21,Man. United,Bruno Fernandes,MID,248,44,7.0,8.5
+Premier League,2020-21,Tottenham,Heung-min Son,MID,224,27,9.5,10.0
+Premier League,2020-21,Man. United,Marcus Rashford,MID,179,18,9.0,9.1
+Premier League,2020-21,Man. City,Ilkay Gündogan,MID,154,23,5.5,5.9
+Premier League,2020-21,Tottenham,Harry Kane,FWD,247,45,10.5,11.2
+Premier League,2020-21,Liverpool,Mohamed Salah,FWD,213,39,11.5,11.8
+Premier League,2020-21,Leeds,Patrick Bamford,FWD,191,32,5.0,6.0
+Total,-,-,-,-,2059,318,83.0,87.6

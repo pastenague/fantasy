@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Bundesliga,2015-16,Bayern,Manuel Neuer,GK,159,14,6.0,6.2
+Bundesliga,2015-16,Hertha,Marvin Plattenhardt,DEF,135,13,5.0,5.2
+Bundesliga,2015-16,Bayern,Philipp Lahm,DEF,132,16,6.0,5.9
+Bundesliga,2015-16,Bayern,David Alaba,DEF,125,5,5.0,5.0
+Bundesliga,2015-16,Bayern,Thomas Müller,MID,213,35,10.0,10.5
+Bundesliga,2015-16,Dortmund,Henrikh Mkhitaryan,MID,196,31,6.0,7.0
+Bundesliga,2015-16,Hertha,Salomon Kalou,MID,164,17,5.5,6.1
+Bundesliga,2015-16,Mainz,Yunus Malli,MID,162,20,6.5,6.6
+Bundesliga,2015-16,Bayern,Robert Lewandowski,FWD,222,37,10.0,10.9
+Bundesliga,2015-16,Dortmund,P.-E. Aubameyang,FWD,202,32,9.0,9.6
+Bundesliga,2015-16,Gladbach,Raffael,FWD,175,34,7.5,7.5
+Total,-,-,-,-,1885,254,76.5,80.5

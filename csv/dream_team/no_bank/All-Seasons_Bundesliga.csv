@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Bundesliga,2015-16,Bayern,Manuel Neuer,GK,159,14,6.0,6.2
+Bundesliga,2018-19,Bayern,Joshua Kimmich,DEF,188,31,6.5,6.9
+Bundesliga,2019-20,Dortmund,Achraf Hakimi,DEF,185,27,5.5,6.3
+Bundesliga,2016-17,Bayern,David Alaba,DEF,172,17,5.5,6.0
+Bundesliga,2019-20,Dortmund,Jadon Sancho,MID,225,28,8.5,9.4
+Bundesliga,2014-15,Wolfsburg,Kevin De Bruyne,MID,222,39,9.5,9.8
+Bundesliga,2015-16,Bayern,Thomas Müller,MID,213,35,10.0,10.5
+Bundesliga,2020-21,Bayern,Thomas Müller,MID,207,26,9.5,9.8
+Bundesliga,2020-21,Bayern,Robert Lewandowski,FWD,288,50,12.5,13.1
+Bundesliga,2019-20,Bayern,Robert Lewandowski,FWD,244,39,12.0,12.6
+Bundesliga,2016-17,Dortmund,P.-E. Aubameyang,FWD,239,49,10.5,11.2
+Total,-,-,-,-,2342,355,96.0,101.8

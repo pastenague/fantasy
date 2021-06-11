@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Serie A,2020-21,AC Milan,Gianluigi Donnarumma,GK,132,14,5.0,5.1
+Serie A,2020-21,Atalanta,Robin Gosens,DEF,174,18,7.0,7.5
+Serie A,2020-21,Inter,Achraf Hakimi,DEF,171,19,7.0,7.2
+Serie A,2020-21,AC Milan,Theo Hernández,DEF,168,20,6.0,6.4
+Serie A,2020-21,Napoli,Lorenzo Insigne,MID,240,49,8.0,9.1
+Serie A,2020-21,Sassuolo,Domenico Berardi,MID,202,37,8.5,8.9
+Serie A,2020-21,Roma,Henrikh Mkhitaryan,MID,188,21,7.0,7.6
+Serie A,2020-21,AC Milan,Franck Kessié,MID,183,28,5.5,6.2
+Serie A,2020-21,Inter,Romelu Lukaku,FWD,238,45,10.0,10.7
+Serie A,2020-21,Juventus,Cristiano Ronaldo,FWD,235,49,12.5,12.9
+Serie A,2020-21,Fiorentina,Dusan Vlahović,FWD,201,38,5.5,6.4
+Total,-,-,-,-,2132,338,82.0,88.0

@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Serie A,2018-19,Inter,Samir Handanović,GK,146,11,5.0,5.3
+Serie A,2018-19,Torino,Armando Izzo,DEF,156,11,5.0,5.4
+Serie A,2018-19,Roma,Aleksandar Kolarov,DEF,144,16,6.5,6.6
+Serie A,2018-19,Napoli,Kalidou Koulibaly,DEF,138,13,6.5,6.4
+Serie A,2018-19,Sassuolo,Pol Lirola,DEF,132,17,5.0,5.2
+Serie A,2018-19,Udinese,Rodrigo de Paul,MID,175,30,6.0,6.4
+Serie A,2018-19,Atalanta,Alejandro Gómez,MID,164,24,8.0,7.9
+Serie A,2018-19,Roma,Stephan El Shaarawy,MID,134,14,7.0,6.9
+Serie A,2018-19,Sampdoria,Fabio Quagliarella,FWD,244,43,9.0,10.0
+Serie A,2018-19,Atalanta,Duván Zapata,FWD,215,39,7.5,8.3
+Serie A,2018-19,Juventus,Cristiano Ronaldo,FWD,209,43,12.0,12.3
+Total,-,-,-,-,1857,261,77.5,80.7

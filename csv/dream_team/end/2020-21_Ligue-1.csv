@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Ligue 1,2020-21,Lille,Mike Maignan,GK,180,26,5.0,5.6
+Ligue 1,2020-21,Lille,José Fonte,DEF,166,11,5.5,5.9
+Ligue 1,2020-21,Lille,Mehmet Zeki Çelik,DEF,156,21,5.5,5.8
+Ligue 1,2020-21,Lille,Sven Botman,DEF,150,3,5.5,5.6
+Ligue 1,2020-21,Lille,Jonathan Bamba,MID,164,17,6.5,6.9
+Ligue 1,2020-21,Lens,Gaël Kakuta,MID,159,24,6.0,6.1
+Ligue 1,2020-21,Marseille,Florian Thauvin,MID,157,22,10.5,10.2
+Ligue 1,2020-21,Lorient,Yoane Wissa,MID,151,20,6.0,6.0
+Ligue 1,2020-21,PSG,Kylian Mbappé,FWD,224,42,11.5,12.0
+Ligue 1,2020-21,Lyon,Memphis Depay,FWD,223,38,9.0,9.7
+Ligue 1,2020-21,Montpellier,Gaetan Laborde,FWD,192,31,7.0,7.3
+Total,-,-,-,-,1922,255,78.0,81.1

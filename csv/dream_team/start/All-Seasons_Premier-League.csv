@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Premier League,2018-19,Liverpool,Alisson,GK,168,13,5.5,5.9
+Premier League,2019-20,Liverpool,Trent Alexander-Arnold,DEF,208,28,6.5,7.2
+Premier League,2018-19,Liverpool,Andrew Robertson,DEF,204,23,5.5,6.4
+Premier League,2018-19,Liverpool,Virgil van Dijk,DEF,195,15,4.5,5.4
+Premier League,2020-21,Man. United,Bruno Fernandes,MID,248,44,7.0,8.5
+Premier League,2019-20,Man. City,Kevin De Bruyne,MID,242,32,8.0,9.3
+Premier League,2015-16,Leicester,Riyad Mahrez,MID,240,36,6.0,7.7
+Premier League,2014-15,Chelsea,Eden Hazard,MID,234,46,8.0,8.8
+Premier League,2017-18,Liverpool,Mohamed Salah,FWD,268,42,9.5,10.9
+Premier League,2020-21,Tottenham,Harry Kane,FWD,247,45,10.5,11.2
+Premier League,2017-18,Tottenham,Harry Kane,FWD,241,49,11.5,12.1
+Total,-,-,-,-,2495,373,82.5,93.4

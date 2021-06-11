@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+La Liga,2020-21,Real Madrid,Thibaut Courtois,GK,156,18,5.5,5.7
+La Liga,2020-21,Atlético,Kieran Trippier,DEF,161,25,5.5,5.7
+La Liga,2020-21,Barcelona,Jordi Alba,DEF,152,21,6.5,6.5
+La Liga,2020-21,Sevilla,Jules Koundé,DEF,146,13,5.0,5.2
+La Liga,2020-21,Atlético,Marcos Llorente,MID,196,26,5.5,6.6
+La Liga,2020-21,Real Sociedad,Mikel Oyarzabal,MID,174,21,8.5,8.7
+La Liga,2020-21,Levante,Morales,MID,168,24,6.5,6.6
+La Liga,2020-21,Valencia,Carlos Soler,MID,163,22,5.0,5.6
+La Liga,2020-21,Barcelona,Lionel Messi,FWD,266,55,12.5,12.9
+La Liga,2020-21,Real Madrid,Karim Benzema,FWD,229,45,11.0,11.5
+La Liga,2020-21,Villarreal,Gerard Moreno,FWD,221,49,8.5,9.1
+Total,-,-,-,-,2032,319,80.0,84.1

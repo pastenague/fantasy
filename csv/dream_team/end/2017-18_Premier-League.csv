@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Premier League,2017-18,Man. United,David de Gea,GK,156,19,5.0,5.4
+Premier League,2017-18,Chelsea,Marcos Alonso,DEF,177,22,5.5,6.0
+Premier League,2017-18,Chelsea,César Azpilicueta,DEF,170,20,6.0,6.3
+Premier League,2017-18,Man. City,Kyle Walker,DEF,147,17,5.5,5.7
+Premier League,2017-18,Leicester,Riyad Mahrez,MID,194,28,8.5,8.7
+Premier League,2017-18,Tottenham,Christian Eriksen,MID,187,17,8.5,8.8
+Premier League,2017-18,Brighton,Pascal Groß,MID,162,22,5.5,5.8
+Premier League,2017-18,Crystal Palace,Luka Milivojević,MID,137,14,5.0,5.2
+Premier League,2017-18,Liverpool,Mohamed Salah,FWD,268,42,9.5,10.9
+Premier League,2017-18,Tottenham,Harry Kane,FWD,241,49,11.5,12.1
+Premier League,2017-18,Man. City,Raheem Sterling,FWD,192,31,7.0,7.8
+Total,-,-,-,-,2031,281,77.5,82.7

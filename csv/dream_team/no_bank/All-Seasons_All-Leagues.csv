@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+La Liga,2015-16,Atlético,Jan Oblak,GK,187,19,5.0,5.8
+Premier League,2019-20,Liverpool,Trent Alexander-Arnold,DEF,208,28,6.5,7.2
+La Liga,2019-20,Real Madrid,Sergio Ramos,DEF,205,18,6.5,7.2
+Premier League,2018-19,Liverpool,Andrew Robertson,DEF,204,23,5.5,6.4
+Ligue 1,2018-19,Lille,Nicolas Pepe,MID,274,42,7.0,9.0
+Ligue 1,2017-18,Marseille,Florian Thauvin,MID,262,42,7.5,9.2
+Premier League,2020-21,Man. United,Bruno Fernandes,MID,248,44,7.0,8.5
+Premier League,2019-20,Man. City,Kevin De Bruyne,MID,242,32,8.0,9.3
+La Liga,2014-15,Real Madrid,Cristiano Ronaldo,FWD,372,71,11.5,12.9
+La Liga,2014-15,Barcelona,Lionel Messi,FWD,362,65,11.5,12.9
+La Liga,2015-16,Barcelona,Luis Suárez,FWD,322,50,11.0,12.4
+Total,-,-,-,-,2886,434,87.0,100.8

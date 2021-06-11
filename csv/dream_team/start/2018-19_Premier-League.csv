@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Premier League,2018-19,Liverpool,Alisson,GK,168,13,5.5,5.9
+Premier League,2018-19,Liverpool,Andrew Robertson,DEF,204,23,5.5,6.4
+Premier League,2018-19,Liverpool,Virgil van Dijk,DEF,195,15,4.5,5.4
+Premier League,2018-19,Man. City,Aymeric Laporte,DEF,177,16,5.0,5.6
+Premier League,2018-19,Liverpool,Trent Alexander-Arnold,DEF,176,23,5.0,5.7
+Premier League,2018-19,Everton,Gylfi Sigurðsson,MID,190,23,7.0,7.5
+Premier League,2018-19,Man. United,Paul Pogba,MID,187,25,7.5,7.8
+Premier League,2018-19,Bournemouth,Ryan Fraser,MID,179,21,6.0,6.5
+Premier League,2018-19,Liverpool,Mohamed Salah,FWD,221,35,12.0,12.5
+Premier League,2018-19,Chelsea,Eden Hazard,FWD,211,35,9.0,9.5
+Premier League,2018-19,Arsenal,P.-E. Aubameyang,FWD,204,35,10.5,10.7
+Total,-,-,-,-,2112,264,77.5,83.5

@@ -1,0 +1,13 @@
+League,Season,Club,Player,Position,Points,Bonus_Points,Start_Price,End_Price
+Serie A,2015-16,Juventus,Gianluigi Buffon,GK,169,19,5.5,5.9
+Serie A,2017-18,Roma,Aleksandar Kolarov,DEF,183,28,5.5,6.0
+Serie A,2017-18,Napoli,Kalidou Koulibaly,DEF,178,14,5.5,6.1
+Serie A,2017-18,Inter,Milan Skriniar,DEF,168,11,4.5,5.1
+Serie A,2020-21,Napoli,Lorenzo Insigne,MID,240,49,8.0,9.1
+Serie A,2017-18,Lazio,Luis Alberto,MID,190,26,6.0,6.7
+Serie A,2020-21,AC Milan,Franck Kessié,MID,183,28,5.5,6.2
+Serie A,2018-19,Udinese,Rodrigo de Paul,MID,175,30,6.0,6.4
+Serie A,2019-20,Lazio,Ciro Immobile,FWD,301,65,10.5,11.7
+Serie A,2015-16,Napoli,Gonzalo Higuaín,FWD,272,56,9.5,10.9
+Serie A,2016-17,Roma,Edin Dzeko,FWD,250,41,7.0,8.8
+Total,-,-,-,-,2309,367,73.5,82.9
